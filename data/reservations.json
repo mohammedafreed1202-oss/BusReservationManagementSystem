@@ -1,0 +1,472 @@
+{
+  "buses" : [ {
+    "busId" : "B1",
+    "busNumber" : "AP-01-1234",
+    "source" : "Vijayawada",
+    "destination" : "Hyderabad",
+    "totalSeats" : 40,
+    "availableSeats" : 40,
+    "fare" : 500.0,
+    "seats" : [ {
+      "seatNumber" : 1,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 2,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 3,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 4,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 5,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 6,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 7,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 8,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 9,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 10,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 11,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 12,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 13,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 14,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 15,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 16,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 17,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 18,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 19,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 20,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 21,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 22,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 23,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 24,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 25,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 26,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 27,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 28,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 29,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 30,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 31,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 32,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 33,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 34,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 35,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 36,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 37,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 38,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 39,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 40,
+      "booked" : false,
+      "passengerId" : null
+    } ]
+  }, {
+    "busId" : "B2",
+    "busNumber" : "AP-02-5678",
+    "source" : "Vijayawada",
+    "destination" : "Vizag",
+    "totalSeats" : 40,
+    "availableSeats" : 40,
+    "fare" : 600.0,
+    "seats" : [ {
+      "seatNumber" : 1,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 2,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 3,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 4,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 5,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 6,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 7,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 8,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 9,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 10,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 11,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 12,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 13,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 14,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 15,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 16,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 17,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 18,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 19,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 20,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 21,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 22,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 23,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 24,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 25,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 26,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 27,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 28,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 29,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 30,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 31,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 32,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 33,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 34,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 35,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 36,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 37,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 38,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 39,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 40,
+      "booked" : false,
+      "passengerId" : null
+    } ]
+  }, {
+    "busId" : "B3",
+    "busNumber" : "AP-03-9999",
+    "source" : "Guntur",
+    "destination" : "Hyderabad",
+    "totalSeats" : 30,
+    "availableSeats" : 30,
+    "fare" : 450.0,
+    "seats" : [ {
+      "seatNumber" : 1,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 2,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 3,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 4,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 5,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 6,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 7,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 8,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 9,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 10,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 11,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 12,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 13,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 14,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 15,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 16,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 17,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 18,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 19,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 20,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 21,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 22,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 23,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 24,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 25,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 26,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 27,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 28,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 29,
+      "booked" : false,
+      "passengerId" : null
+    }, {
+      "seatNumber" : 30,
+      "booked" : false,
+      "passengerId" : null
+    } ]
+  } ],
+  "passengers" : [ ],
+  "tickets" : [ ]
+}

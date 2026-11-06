@@ -1,0 +1,8 @@
+com\busreservation\model\Seat.class
+com\busreservation\model\Ticket.class
+com\busreservation\persistence\JsonFileManager.class
+com\busreservation\main\Main.class
+com\busreservation\model\Passenger.class
+com\busreservation\persistence\ReservationData.class
+com\busreservation\model\Bus.class
+com\busreservation\service\ReservationService.class
